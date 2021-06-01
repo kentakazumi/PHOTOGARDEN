@@ -1,4 +1,4 @@
-# <POST Garden>
+# POST Garden
 
 ## サイト概要
 <ガーデニング画像投稿サイト>
