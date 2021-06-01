@@ -18,8 +18,10 @@
 ## 設計書
 <ER図>
 https://app.diagrams.net/#G1HfJdYZDNufTe3SZoE8EAQTZYSsKi511f
+
 <テーブル定義書>
 https://docs.google.com/spreadsheets/d/1BFg9D75N10kAxIMdtHPlNeD_e119s3gDEs85T8LchyU/edit#gid=0
+
 <アプリケーション定義書>
 https://docs.google.com/spreadsheets/d/1iWT5nx_hnKs083_6yg127NlBzRyu2uiFHQIYXnkSRwo/edit#gid=0
 
